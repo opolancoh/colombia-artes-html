@@ -8667,37 +8667,19 @@ body.vertical-menu-open .vertical-menu-overlay {
   line-height: normal;
 }
 /*banner home 03*/
-.item-banner.style7 .inner {
-  background-image: url(../images/banner-home-5.jpg);
-}
-.item-banner.style7 .banner-content {
+.item-banner.style-card .banner-content {
   padding-top: 58px;
   padding-right: 165px;
   padding-bottom: 60px;
   padding-left: 30px;
   margin-bottom: 20px;
 }
-.item-banner.style7 .title,
-.item-banner.style8 .title {
+.item-banner.style-card .title {
   font-size: 26px;
   line-height: 32px;
 }
-.item-banner.style7 .description {
+.item-banner.style-card .description {
   margin-bottom: 15px;
-  max-width: 185px;
-}
-.item-banner.style8 .inner {
-  background-image: url(../images/banner-home-6.jpg);
-}
-.item-banner.style8 .banner-content {
-  padding-top: 60px;
-  padding-right: 166px;
-  padding-bottom: 70px;
-  padding-left: 30px;
-  margin-bottom: 20px;
-}
-.item-banner.style8 .description {
-  margin-bottom: 13px;
   max-width: 185px;
 }
 .item-banner .price {
@@ -9583,13 +9565,10 @@ iframe {
   .item-banner.style17 .title,
   .item-banner.style4 .title,
   .item-banner.style5 .title,
-  .item-banner.style7 .title,
-  .item-banner.style8 .title,
+  .item-banner.style-card .title,
   .item-banner.style17 .title,
   .item-banner.style4 .title,
-  .item-banner.style5 .title,
-  .item-banner.style7 .title,
-  .item-banner.style8 .title {
+  .item-banner.style5 .title {
     font-size: 24px;
   }
   .ysera-newsletter.style3 .title {
@@ -10126,11 +10105,8 @@ iframe {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .item-banner.style7 .banner-content {
+  .item-banner.style-card .banner-content {
     padding-right: 130px;
-  }
-  .item-banner.style8 .banner-content {
-    padding-right: 136px;
   }
   .header .main-header {
     padding: 30px 0 20px;
@@ -10393,13 +10369,10 @@ iframe {
   .item-banner.style17 .title,
   .item-banner.style4 .title,
   .item-banner.style5 .title,
-  .item-banner.style7 .title,
-  .item-banner.style8 .title,
+  .item-banner.style-card .title,
   .item-banner.style17 .title,
   .item-banner.style4 .title,
-  .item-banner.style5 .title,
-  .item-banner.style7 .title,
-  .item-banner.style8 .title {
+  .item-banner.style5 .title {
     font-size: 20px;
   }
   .ysera-tabs .tab-link::before {
