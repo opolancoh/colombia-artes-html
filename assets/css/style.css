@@ -6774,7 +6774,7 @@ ul.list-products {
   margin-bottom: 20px;
 }
 .slider-item.style7 .slider-inner {
-  background-image: url(../images/slider-thumb4.jpg);
+  background-image: url(../../images/coa-0001-slider01.jpg);
 }
 .slider-item.style7 .slider-inner .slider-infor {
   padding-top: 185px;
@@ -6783,7 +6783,7 @@ ul.list-products {
   padding-right: 400px;
 }
 .slider-item.style8 .slider-inner {
-  background-image: url(../images/slider-thumb5.jpg);
+  background-image: url(../../images/coa-0002-slider01.jpg);
 }
 .slider-item.style8 .slider-inner .slider-infor {
   padding-top: 185px;
@@ -6792,9 +6792,18 @@ ul.list-products {
   padding-right: 400px;
 }
 .slider-item.style9 .slider-inner {
-  background-image: url(../images/slider-thumb6.jpg);
+  background-image: url(../../images/coa-0003-slider01.jpg);
 }
 .slider-item.style9 .slider-inner .slider-infor {
+  padding-top: 185px;
+  padding-bottom: 200px;
+  padding-left: 50px;
+  padding-right: 400px;
+}
+.slider-item.style91 .slider-inner {
+  background-image: url(../../images/coa-0004-slider01.jpg);
+}
+.slider-item.style91 .slider-inner .slider-infor {
   padding-top: 185px;
   padding-bottom: 200px;
   padding-left: 50px;
@@ -10456,6 +10465,7 @@ iframe {
   .slider-item.style7 .slider-inner .slider-infor,
   .slider-item.style8 .slider-inner .slider-infor,
   .slider-item.style9 .slider-inner .slider-infor,
+  .slider-item.style91 .slider-inner .slider-infor,
   .slider-item.style13 .slider-inner .slider-infor,
   .slider-item.style14 .slider-inner .slider-infor,
   .slider-item.style15 .slider-inner .slider-infor,
@@ -10889,6 +10899,7 @@ iframe {
   .slider-item.style7 .slider-inner .slider-infor,
   .slider-item.style8 .slider-inner .slider-infor,
   .slider-item.style9 .slider-inner .slider-infor,
+  .slider-item.style91 .slider-inner .slider-infor,
   .slider-item.style10 .slider-inner .slider-infor,
   .slider-item.style11 .slider-inner .slider-infor,
   .slider-item.style12 .slider-inner .slider-infor,
@@ -11161,6 +11172,7 @@ iframe {
   .slider-item.style7 .slider-inner .slider-infor,
   .slider-item.style8 .slider-inner .slider-infor,
   .slider-item.style9 .slider-inner .slider-infor,
+  .slider-item.style91 .slider-inner .slider-infor,
   .slider-item.style13 .slider-inner .slider-infor,
   .slider-item.style14 .slider-inner .slider-infor,
   .slider-item.style15 .slider-inner .slider-infor,
