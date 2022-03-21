@@ -22,6 +22,16 @@
       titleBig: 'Nueva colección<br>2022',
       price: 78000,
     },
+    {
+      id: 'coa-0005',
+      titleBig: 'Hasta el 15% de descuento',
+      price: 78000,
+    },
+    {
+      id: 'coa-0006',
+      titleBig: 'Nueva colección<br>2022',
+      price: 78000,
+    },
   ];
 
   const container = document.getElementById(containerName);
@@ -33,7 +43,7 @@
                   <div class="product-top">
                     <div class="flash">
                       <span class="onnew">
-                        <span class="text"> new </span>
+                        <span class="text"> Oferta </span>
                       </span>
                     </div>
                   </div>
@@ -43,15 +53,7 @@
                         <img src="assets/images/product-item-17.jpg" alt="img" />
                       </a>
                       <div class="thumb-group">
-                        <div class="yith-wcwl-add-to-wishlist">
-                          <div class="yith-wcwl-add-button">
-                            <a href="#">Add to Wishlist</a>
-                          </div>
-                        </div>
-                        <a href="#" class="button quick-wiew-button">Quick View</a>
-                        <div class="loop-form-add-to-cart">
-                          <button class="single_add_to_cart_button button">Add to cart</button>
-                        </div>
+                        <a href="#" class="button quick-wiew-button">Ver</a>
                       </div>
                     </div>
                   </div>
