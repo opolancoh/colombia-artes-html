@@ -6773,42 +6773,13 @@ ul.list-products {
 .home-slider-banner .silider-wrapp {
   margin-bottom: 20px;
 }
-.slider-item.style7 .slider-inner {
-  background-image: url(../../images/coa-0001-slider01.jpg);
-}
-.slider-item.style7 .slider-inner .slider-infor {
+.slider-item.style-card .slider-inner .slider-infor {
   padding-top: 185px;
   padding-bottom: 200px;
   padding-left: 50px;
   padding-right: 400px;
 }
-.slider-item.style8 .slider-inner {
-  background-image: url(../../images/coa-0002-slider01.jpg);
-}
-.slider-item.style8 .slider-inner .slider-infor {
-  padding-top: 185px;
-  padding-bottom: 200px;
-  padding-left: 50px;
-  padding-right: 400px;
-}
-.slider-item.style9 .slider-inner {
-  background-image: url(../../images/coa-0003-slider01.jpg);
-}
-.slider-item.style9 .slider-inner .slider-infor {
-  padding-top: 185px;
-  padding-bottom: 200px;
-  padding-left: 50px;
-  padding-right: 400px;
-}
-.slider-item.style91 .slider-inner {
-  background-image: url(../../images/coa-0004-slider01.jpg);
-}
-.slider-item.style91 .slider-inner .slider-infor {
-  padding-top: 185px;
-  padding-bottom: 200px;
-  padding-left: 50px;
-  padding-right: 400px;
-}
+
 .slider-owl .slick-dots {
   position: absolute;
   bottom: 25px;
@@ -10462,9 +10433,7 @@ iframe {
   .slider-item.style1 .slider-inner .slider-infor,
   .slider-item.style3 .slider-inner .slider-infor,
   .slider-item.style2 .slider-inner .slider-infor,
-  .slider-item.style7 .slider-inner .slider-infor,
-  .slider-item.style8 .slider-inner .slider-infor,
-  .slider-item.style9 .slider-inner .slider-infor,
+  .slider-item.style-card .slider-inner .slider-infor,
   .slider-item.style91 .slider-inner .slider-infor,
   .slider-item.style13 .slider-inner .slider-infor,
   .slider-item.style14 .slider-inner .slider-infor,
@@ -10896,10 +10865,7 @@ iframe {
   .slider-item.style4 .slider-inner .slider-infor,
   .slider-item.style5 .slider-inner .slider-infor,
   .slider-item.style6 .slider-inner .slider-infor,
-  .slider-item.style7 .slider-inner .slider-infor,
-  .slider-item.style8 .slider-inner .slider-infor,
-  .slider-item.style9 .slider-inner .slider-infor,
-  .slider-item.style91 .slider-inner .slider-infor,
+  .slider-item.style-card .slider-inner .slider-infor,
   .slider-item.style10 .slider-inner .slider-infor,
   .slider-item.style11 .slider-inner .slider-infor,
   .slider-item.style12 .slider-inner .slider-infor,
@@ -11169,10 +11135,7 @@ iframe {
   .slider-item.style1 .slider-inner .slider-infor,
   .slider-item.style3 .slider-inner .slider-infor,
   .slider-item.style2 .slider-inner .slider-infor,
-  .slider-item.style7 .slider-inner .slider-infor,
-  .slider-item.style8 .slider-inner .slider-infor,
-  .slider-item.style9 .slider-inner .slider-infor,
-  .slider-item.style91 .slider-inner .slider-infor,
+  .slider-item.style-card .slider-inner .slider-infor,
   .slider-item.style13 .slider-inner .slider-infor,
   .slider-item.style14 .slider-inner .slider-infor,
   .slider-item.style15 .slider-inner .slider-infor,
