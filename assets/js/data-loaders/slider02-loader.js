@@ -59,7 +59,7 @@
                   </div>
                   <div class="product-info">
                     <h5 class="product-name product_title">
-                      <a href="#">Splendid Diamond</a>
+                      <a href="#">${item.id.toUpperCase()}</a>
                     </h5>
                     <div class="group-info">
                       <div class="price">
